@@ -1,0 +1,17 @@
+{
+  "author": "Nuck <peter.lejeck@gmail.com> (http://github.com/NuckChorris/)",
+  "name": "MultiPartser",
+  "description": "A streaming multipart parser",
+  "version": "0.1.0a",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NuckChorris/Multipartser.git"
+  },
+  "engines": {
+    "node": "~v0.4.10"
+  },
+  "dependencies": {
+    "buffertools": "~1.0.3"
+  },
+  "devDependencies": {}
+}
